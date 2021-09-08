@@ -43,7 +43,7 @@ Should you be forking this repo then do not forget to star it - <img alt="GitHub
   
 ### The Easiest way to Deploy this Bot...
   
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MadBoy-X/TeslaRobo.git) 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kachioi/TeslaRobo.git) 
   
 -------------------------------------------------
 
